@@ -1,0 +1,514 @@
+
+[
+  {
+    "activityType": "Login Success",
+    "date": "2025-04-05",
+    "status": "success",
+    "user": "user_101",
+    "device": "device_A"
+  },
+  {
+    "activityType": "Login Success",
+    "date": "2025-04-12",
+    "status": "success",
+    "user": "user_102",
+    "device": "device_B"
+  },
+  {
+    "activityType": "Login Success",
+    "date": "2025-04-19",
+    "status": "fail",
+    "user": "user_103",
+    "device": "device_C"
+  },
+  {
+    "activityType": "Login Success",
+    "date": "2025-04-26",
+    "status": "fail",
+    "user": "user_104",
+    "device": "device_D"
+  },
+  {
+    "activityType": "Login Success",
+    "date": "2025-05-03",
+    "status": "success",
+    "user": "user_105",
+    "device": "device_E"
+  },
+  {
+    "activityType": "Login Success",
+    "date": "2025-05-10",
+    "status": "success",
+    "user": "user_106",
+    "device": "device_F"
+  },
+  {
+    "activityType": "Login Success",
+    "date": "2025-05-17",
+    "status": "fail",
+    "user": "user_107",
+    "device": "device_G"
+  },
+  {
+    "activityType": "Login Success",
+    "date": "2025-05-24",
+    "status": "fail",
+    "user": "user_108",
+    "device": "device_H"
+  },
+  {
+    "activityType": "Login Success",
+    "date": "2025-05-31",
+    "status": "success",
+    "user": "user_109",
+    "device": "device_I"
+  },
+  {
+    "activityType": "Login Success",
+    "date": "2025-06-07",
+    "status": "success",
+    "user": "user_110",
+    "device": "device_J"
+  },
+  {
+    "activityType": "Login Success",
+    "date": "2025-06-14",
+    "status": "success",
+    "user": "user_111",
+    "device": "device_K"
+  },
+  {
+    "activityType": "Login Success",
+    "date": "2025-06-21",
+    "status": "warning",
+    "user": "user_112",
+    "device": "device_L"
+  },
+  {
+    "activityType": "Login Success",
+    "date": "2025-06-28",
+    "status": "success",
+    "user": "user_113",
+    "device": "device_M"
+  },
+  {
+    "activityType": "Login Failed",
+    "date": "2025-04-05",
+    "status": "fail",
+    "user": "user_201",
+    "device": "device_A"
+  },
+  {
+    "activityType": "Login Failed",
+    "date": "2025-04-12",
+    "status": "fail",
+    "user": "user_202",
+    "device": "device_B"
+  },
+  {
+    "activityType": "Login Failed",
+    "date": "2025-04-19",
+    "status": "warning",
+    "user": "user_203",
+    "device": "device_C"
+  },
+  {
+    "activityType": "Login Failed",
+    "date": "2025-04-26",
+    "status": "success",
+    "user": "user_204",
+    "device": "device_D"
+  },
+  {
+    "activityType": "Login Failed",
+    "date": "2025-05-03",
+    "status": "success",
+    "user": "user_205",
+    "device": "device_E"
+  },
+  {
+    "activityType": "Login Failed",
+    "date": "2025-05-10",
+    "status": "success",
+    "user": "user_206",
+    "device": "device_F"
+  },
+  {
+    "activityType": "Login Failed",
+    "date": "2025-05-17",
+    "status": "success",
+    "user": "user_207",
+    "device": "device_G"
+  },
+  {
+    "activityType": "Login Failed",
+    "date": "2025-05-24",
+    "status": "fail",
+    "user": "user_208",
+    "device": "device_H"
+  },
+  {
+    "activityType": "Login Failed",
+    "date": "2025-05-31",
+    "status": "success",
+    "user": "user_209",
+    "device": "device_I"
+  },
+  {
+    "activityType": "Login Failed",
+    "date": "2025-06-07",
+    "status": "success",
+    "user": "user_210",
+    "device": "device_J"
+  },
+  {
+    "activityType": "Login Failed",
+    "date": "2025-06-14",
+    "status": "warning",
+    "user": "user_211",
+    "device": "device_K"
+  },
+  {
+    "activityType": "Login Failed",
+    "date": "2025-06-21",
+    "status": "success",
+    "user": "user_212",
+    "device": "device_L"
+  },
+  {
+    "activityType": "Login Failed",
+    "date": "2025-06-28",
+    "status": "success",
+    "user": "user_213",
+    "device": "device_M"
+  },
+  {
+    "activityType": "MFA Success",
+    "date": "2025-04-05",
+    "status": "success",
+    "user": "user_301",
+    "device": "device_A"
+  },
+  {
+    "activityType": "MFA Success",
+    "date": "2025-04-12",
+    "status": "success",
+    "user": "user_302",
+    "device": "device_B"
+  },
+  {
+    "activityType": "MFA Success",
+    "date": "2025-04-19",
+    "status": "success",
+    "user": "user_303",
+    "device": "device_C"
+  },
+  {
+    "activityType": "MFA Success",
+    "date": "2025-04-26",
+    "status": "success",
+    "user": "user_304",
+    "device": "device_D"
+  },
+  {
+    "activityType": "MFA Success",
+    "date": "2025-05-03",
+    "status": "success",
+    "user": "user_305",
+    "device": "device_E"
+  },
+  {
+    "activityType": "MFA Success",
+    "date": "2025-05-10",
+    "status": "fail",
+    "user": "user_306",
+    "device": "device_F"
+  },
+  {
+    "activityType": "MFA Success",
+    "date": "2025-05-17",
+    "status": "success",
+    "user": "user_307",
+    "device": "device_G"
+  },
+  {
+    "activityType": "MFA Success",
+    "date": "2025-05-24",
+    "status": "success",
+    "user": "user_308",
+    "device": "device_H"
+  },
+  {
+    "activityType": "MFA Success",
+    "date": "2025-05-31",
+    "status": "success",
+    "user": "user_309",
+    "device": "device_I"
+  },
+  {
+    "activityType": "MFA Success",
+    "date": "2025-06-07",
+    "status": "success",
+    "user": "user_310",
+    "device": "device_J"
+  },
+  {
+    "activityType": "MFA Success",
+    "date": "2025-06-14",
+    "status": "success",
+    "user": "user_311",
+    "device": "device_K"
+  },
+  {
+    "activityType": "MFA Success",
+    "date": "2025-06-21",
+    "status": "fail",
+    "user": "user_312",
+    "device": "device_L"
+  },
+  {
+    "activityType": "MFA Success",
+    "date": "2025-06-28",
+    "status": "success",
+    "user": "user_313",
+    "device": "device_M"
+  },
+  {
+    "activityType": "Device Registered",
+    "date": "2025-04-05",
+    "status": "success",
+    "user": "user_401",
+    "device": "device_A"
+  },
+  {
+    "activityType": "Device Registered",
+    "date": "2025-04-12",
+    "status": "warning",
+    "user": "user_402",
+    "device": "device_B"
+  },
+  {
+    "activityType": "Device Registered",
+    "date": "2025-04-19",
+    "status": "success",
+    "user": "user_403",
+    "device": "device_C"
+  },
+  {
+    "activityType": "Device Registered",
+    "date": "2025-04-26",
+    "status": "success",
+    "user": "user_404",
+    "device": "device_D"
+  },
+  {
+    "activityType": "Device Registered",
+    "date": "2025-05-03",
+    "status": "success",
+    "user": "user_405",
+    "device": "device_E"
+  },
+  {
+    "activityType": "Device Registered",
+    "date": "2025-05-10",
+    "status": "success",
+    "user": "user_406",
+    "device": "device_F"
+  },
+  {
+    "activityType": "Device Registered",
+    "date": "2025-05-17",
+    "status": "warning",
+    "user": "user_407",
+    "device": "device_G"
+  },
+  {
+    "activityType": "Device Registered",
+    "date": "2025-05-24",
+    "status": "success",
+    "user": "user_408",
+    "device": "device_H"
+  },
+  {
+    "activityType": "Device Registered",
+    "date": "2025-05-31",
+    "status": "success",
+    "user": "user_409",
+    "device": "device_I"
+  },
+  {
+    "activityType": "Device Registered",
+    "date": "2025-06-07",
+    "status": "success",
+    "user": "user_410",
+    "device": "device_J"
+  },
+  {
+    "activityType": "Device Registered",
+    "date": "2025-06-14",
+    "status": "success",
+    "user": "user_411",
+    "device": "device_K"
+  },
+  {
+    "activityType": "Device Registered",
+    "date": "2025-06-21",
+    "status": "success",
+    "user": "user_412",
+    "device": "device_L"
+  },
+  {
+    "activityType": "Device Registered",
+    "date": "2025-06-28",
+    "status": "success",
+    "user": "user_413",
+    "device": "device_M"
+  },
+  {
+    "activityType": "User Edit",
+    "date": "2025-04-05",
+    "status": "success",
+    "user": "user_501",
+    "device": "device_A"
+  },
+  {
+    "activityType": "User Edit",
+    "date": "2025-04-12",
+    "status": "success",
+    "user": "user_502",
+    "device": "device_B"
+  },
+  {
+    "activityType": "User Edit",
+    "date": "2025-04-19",
+    "status": "success",
+    "user": "user_503",
+    "device": "device_C"
+  },
+  {
+    "activityType": "User Edit",
+    "date": "2025-04-26",
+    "status": "success",
+    "user": "user_504",
+    "device": "device_D"
+  },
+  {
+    "activityType": "User Edit",
+    "date": "2025-05-03",
+    "status": "success",
+    "user": "user_505",
+    "device": "device_E"
+  },
+  {
+    "activityType": "User Edit",
+    "date": "2025-05-10",
+    "status": "success",
+    "user": "user_506",
+    "device": "device_F"
+  },
+  {
+    "activityType": "User Edit",
+    "date": "2025-05-17",
+    "status": "success",
+    "user": "user_507",
+    "device": "device_G"
+  },
+  {
+    "activityType": "User Edit",
+    "date": "2025-05-24",
+    "status": "success",
+    "user": "user_508",
+    "device": "device_H"
+  },
+  {
+    "activityType": "User Edit",
+    "date": "2025-05-31",
+    "status": "success",
+    "user": "user_509",
+    "device": "device_I"
+  },
+  {
+    "activityType": "User Edit",
+    "date": "2025-06-07",
+    "status": "success",
+    "user": "user_510",
+    "device": "device_J"
+  },
+  {
+    "activityType": "User Edit",
+    "date": "2025-06-14",
+    "status": "success",
+    "user": "user_511",
+    "device": "device_K"
+  },
+  {
+    "activityType": "User Edit",
+    "date": "2025-06-21",
+    "status": "success",
+    "user": "user_512",
+    "device": "device_L"
+  },
+  {
+    "activityType": "User Edit",
+    "date": "2025-06-28",
+    "status": "success",
+    "user": "user_513",
+    "device": "device_M"
+  },
+  {
+    "activityType": "API Access",
+    "date": "2025-04-05",
+    "status": "success",
+    "user": "user_601",
+    "device": "device_A",
+    "timestamp": "2025-04-05T09:15:00Z"
+  },
+  {
+    "activityType": "API Access",
+    "date": "2025-04-05",
+    "status": "success",
+    "user": "user_602",
+    "device": "device_B",
+    "timestamp": "2025-04-05T14:30:00Z"
+  },
+  {
+    "activityType": "API Access",
+    "date": "2025-04-12",
+    "status": "warning",
+    "user": "user_603",
+    "device": "device_C",
+    "timestamp": "2025-04-12T11:45:00Z"
+  },
+  {
+    "activityType": "Session Timeout",
+    "date": "2025-04-19",
+    "status": "warning",
+    "user": "user_701",
+    "device": "device_D",
+    "timestamp": "2025-04-19T16:20:00Z"
+  },
+  {
+    "activityType": "Session Timeout",
+    "date": "2025-05-03",
+    "status": "warning",
+    "user": "user_702",
+    "device": "device_E",
+    "timestamp": "2025-05-03T13:10:00Z"
+  },
+  {
+    "activityType": "Password Reset",
+    "date": "2025-05-17",
+    "status": "success",
+    "user": "user_801",
+    "device": "device_F",
+    "timestamp": "2025-05-17T10:00:00Z"
+  },
+  {
+    "activityType": "Password Reset",
+    "date": "2025-06-07",
+    "status": "fail",
+    "user": "user_802",
+    "device": "device_G",
+    "timestamp": "2025-06-07T15:45:00Z"
+  }
+]
